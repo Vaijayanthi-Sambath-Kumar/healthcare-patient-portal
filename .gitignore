@@ -16,3 +16,7 @@ yarn-error.log*
 # Build output
 dist/
 build/
+
+# Local Data (Do not upload)
+backend/database.sqlite
+backend/uploads/
